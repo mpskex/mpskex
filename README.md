@@ -2,11 +2,9 @@
 
 Here is my home page: [mpskex.github.io](https://mpskex.github.io)
 
-I am a researcher currently at [myscale.com](https://myscale.com) interested in Computer Vision \ NLP \ Machine Learning.
+I am a researcher interested in Computer Vision \ NLP \ Machine Learning.
 
-Now I am curently working with LLM fine-tuning and prompt engineering. I am also interetsed in FPGAs and hardware.
-
-I am also contributing to LLM toolsets like [LangChain](https://www.langchain.com) and [LlamaIndex](https://www.llamaindex.ai).
+I am also interetsed in FPGAs and hardware.
 
 [LinkedIn](https://www.linkedin.com/in/fangrui-liu-151230189/)
 [Twitter](https://twitter.com/mpsk_liu)
