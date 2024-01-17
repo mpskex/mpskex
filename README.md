@@ -4,6 +4,8 @@ Here is my home page: [mpskex.github.io](https://mpskex.github.io)
 
 I am a researcher interested in Computer Vision \ NLP \ Machine Learning.
 
+Currently working as an AI Architect at Renesas Electronics.
+
 I am also interetsed in FPGAs and hardware.
 
 [LinkedIn](https://www.linkedin.com/in/fangrui-liu-151230189/)
