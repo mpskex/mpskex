@@ -4,7 +4,7 @@ Here is my home page: [mpskex.github.io](https://mpskex.github.io)
 
 I am a researcher interested in Computer Vision \ NLP \ Machine Learning.
 
-Currently working as an AI Architect at Renesas Electronics.
+Currently working as an AI Architect.
 
 I am also interetsed in FPGAs and hardware.
 
