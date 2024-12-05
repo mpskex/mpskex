@@ -32,19 +32,11 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mpskex&show_icons=true&theme=github_dark&hide_border=true"/>
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mpskex&show_icons=true&hide_border=true"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpskex&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide_border=true"/>
-</a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpskex&layout=compact&langs_count=8&theme=github_dark&size_weight=0.5&count_weight=0.5&hide_border=true"/>
 </a>
 
-<a href="https://github.com/denvercoder1/github-readme-streak-stats#gh-dark-mode-only">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mpskex&theme=github-dark-blue&hide_border=true"/>
-</a>
 <a href="https://github.com/denvercoder1/github-readme-streak-stats#gh-light-mode-only">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mpskex&hide_border=true"/>
 </a>
